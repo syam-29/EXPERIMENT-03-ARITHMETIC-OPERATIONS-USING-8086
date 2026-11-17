@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17/11/26
+## NAME: V.D.R.Syam
+## ROLL NUMBER: RA2511030010343
+## DEPARTMENT: NWC  
 
 ---
 
@@ -201,27 +201,22 @@ HLT
 
 ### FIGURE-01: ADDITION OUTPUT
 
-Upload the addition program execution screenshot here.
-
-![Addition Output](img/addition.png)
+<img width="1728" height="805" alt="image" src="https://github.com/user-attachments/assets/102c76b9-5d3f-45c1-b7cb-872ea858ef1d" />
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
-Upload the subtraction program execution screenshot here.
+<img width="1737" height="800" alt="image" src="https://github.com/user-attachments/assets/f9ced6f6-e77c-4c5f-b0f0-f7d17e6d86a0" />
 
-![Subtraction Output](img/subtraction.png)
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-Upload the multiplication program execution screenshot here.
+<img width="1747" height="800" alt="image" src="https://github.com/user-attachments/assets/903ef13c-3e1a-4ac5-a654-42646ece89d0" />
 
-![Multiplication Output](img/multiplication.png)
 
 ### FIGURE-04: DIVISION OUTPUT
 
-Upload the division program execution screenshot here.
+<img width="1743" height="803" alt="image" src="https://github.com/user-attachments/assets/5ffcdca4-eb97-46f1-86dc-f874431e2aaa" />
 
-![Division Output](img/division.png)
 
 ## RESULT:
 
